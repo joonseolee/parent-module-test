@@ -1,0 +1,3 @@
+[submodule "webflux-book-example"]
+	path = webflux-book-example
+	url = https://github.com/joonseolee/webflux-book-example.git
